@@ -15,8 +15,8 @@
     "react-scripts": "./bin/react-scripts.js"
   },
   "dependencies": {
-    "eslint-config": "git@github.com:mhar-andal/eslint-config.git",
-    "react-svg-loader": "git@github.com:mhar-andal/react-svg-loader.git",
+    "eslint-config": "git@github.com:rrichardsonv/eslint-config.git",
+    "react-svg-loader": "git@github.com:rrichardsonv/react-svg-loader.git",
     "autoprefixer": "6.7.7",
     "babel-core": "6.24.1",
     "babel-eslint": "^7.2.3",
